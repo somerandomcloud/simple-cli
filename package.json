@@ -1,0 +1,21 @@
+{
+  "name": "simple-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somerandomcloud/simple-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somerandomcloud/simple-cli/issues"
+  },
+  "homepage": "https://github.com/somerandomcloud/simple-cli#readme"
+}
